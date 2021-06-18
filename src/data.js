@@ -1,3 +1,6 @@
+/** @refactor
+ * Convert to 1D array
+ */
 export const start_state_sudoku = [
 [null, null, null, 2, 6, null, 7, null, 1],
 [6, 8, null, null, 7, null, null, 9, null],
